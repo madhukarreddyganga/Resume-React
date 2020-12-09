@@ -1,0 +1,47 @@
+.img {
+  border-radius: 80%;
+  display: block;
+  margin-left: 30px;
+  margin-right: auto;
+  width: 70%;
+  height: 22%;
+  border: 1px solid black;
+  margin-top: 58px;
+}
+.Properties {
+  background-color: #9d6270;
+  color: white;
+}
+.font {
+  font-family: monotype corsiva;
+  text-align: center;
+  margin-top: 25px;
+  margin-right: 5px;
+}
+.icon {
+  margin-left: 30px;
+}
+.email {
+  margin-top: -20px;
+  margin-bottom: 51px;
+  margin-left: 26px;
+}
+.imageProp {
+  margin-top: -71px;
+}
+.boldP {
+  margin-top: -56px;
+  margin-left: 28px;
+  font-family: "times new roman";
+}
+.Cent {
+  background-color: #808976;
+  box-shadow: 10px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 9px;
+}
